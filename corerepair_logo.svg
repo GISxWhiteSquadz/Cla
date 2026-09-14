@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="1024" height="1024">
+  <!-- Deep Dark Background -->
+  <rect width="512" height="512" fill="#0C0E12"/>
+  
+  <!-- Centered Icon Group -->
+  <!-- Box size 160x160 centered at x=176, y=130 -->
+  <rect x="180" y="130" width="152" height="152" rx="20" ry="20" fill="none" stroke="#FFFFFF" stroke-width="15"/>
+  
+  <!-- Stylized "C" inside -->
+  <!-- Top bar, left spine, bottom bar with rounded outer ends -->
+  <path d="M 292,168 L 230,168 A 26,26 0 0 0 204,194 L 204,218 A 26,26 0 0 0 230,244 L 292,244" 
+        fill="none" stroke="#FFFFFF" stroke-width="17" stroke-linecap="square" stroke-linejoin="round"/>
+        
+  <!-- Text: CoreSystems -->
+  <text x="256" y="360" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="700" font-size="44" fill="#FFFFFF" letter-spacing="-0.5">CoreSystems</text>
+  
+  <!-- Text: CoreRepair AI -->
+  <text x="256" y="405" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="600" font-size="28" fill="#3B82F6" letter-spacing="0.5">CoreRepair AI</text>
+</svg>

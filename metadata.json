@@ -1,0 +1,6 @@
+{
+  "name": "Repair-Agent by CoreSystems",
+  "description": "Lokales GGUF + RAG Reparatur-Agent: KI-Modellauswahl, Geräteerkennung, Vektorsuche und Offline-Reparaturanleitungen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
